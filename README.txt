@@ -1,5 +1,5 @@
-#### Mini Calculator ####
-to run this Currency Converter, please follow the following steps.
+#### Mini Currency Converter ####
+to run this, please follow the following steps.
 
 - npm install
-- npx currency-converter
+- npx mini-currency-converter
